@@ -4,6 +4,8 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Switch, Route, Link } from "react-router-dom";
 
+// import AddEmployee from "./components/add-employee.component";
+// import Employee from "./components/employee.component";
 import EmployeeList from "./components/employee-list.component";
 
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -19,8 +21,8 @@ class App extends Component {
         <div className="container mt-3">
           <Switch>
             <Route exact path={["/", "/Employee"]} component={EmployeeList} />
-            <Route exact path="/add" component={EmployeeList} />
-            <Route path="/Employee/:id" component={EmployeeList} />
+            {/* <Route exact path="/add" component={AddEmployee} />
+            <Route path="/Employee/:id" component={Employee} /> */}
           </Switch>
         </div>
       </div>
