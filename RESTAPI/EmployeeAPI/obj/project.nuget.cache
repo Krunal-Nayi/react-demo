@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8DUWr0IuIDRR/jy13OQZ+OodRgi+zUbLYIQyP9Dlz7SDJqvOdp+ycdn53NCouSpSSdENpJSvXo09/7C0HEI5w==",
+  "success": true,
+  "projectFilePath": "D:\\WorkStuff\\Affinity ID - Full stack tech test\\Project\\API\\EmployeeAPI\\EmployeeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kunal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
